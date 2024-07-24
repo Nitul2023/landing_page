@@ -1,0 +1,14 @@
+@media screen and (max-width: 1105px) {
+    .first {
+        background-image: url(./background.jpg);
+        max-width: 1105px;
+    }
+    .flex {
+        position: absolute;
+        background-color: white;
+        left: -100%;
+        top: 100%;
+        width: 100%;
+        padding-block: 20px;
+    }
+}
